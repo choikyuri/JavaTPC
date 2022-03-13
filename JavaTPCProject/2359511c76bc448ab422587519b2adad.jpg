@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--여기부터 네이버 메타태그-->
+
+    <meta name="title" content="" />
+    <meta name="keyword" content="" />
+    <meta name="description" content="">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="#">
+    <meta property="og:url" content="">
+    <!--여기까지 네이버 메타태그-->
+
+    <title> 성서유니온선교회 </title>
+    <link rel="stylesheet" type="text/css" href="/Themes/main/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Themes/main/css/error.css" />
+
+    <link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css' rel='stylesheet' type='text/css'>
+
+</head>
+
+
+<body class="error_wrap">
+
+    <div class="error">
+        <div class="error_inner">
+            <div class="error_cont">
+                <div class="error_icon"><img src="/Themes/main/images/error_icon.png"></div>
+                <div class="error_title">404 ERROR</div>
+                <div class="error_text">
+                    <span class="error_text01">죄송합니다. 현재 찾을수 없는 페이지를 요청 하셨습니다.</span><br>
+                    <p class="error_text02">
+                        존재하지 않는 주소를 입력하셨거나,
+                        요청하신 페이지의 주소가 변경, 삭제 되어 찾을수 없습니다.<br>
+                        궁금한 점이 있으시면 언제든 고객센터를 통해 문의해 주시기 바랍니다.
+                        감사합니다.
+                    </p>
+                </div>
+            </div> <!--/error_cont-->
+
+            <div class="error_button">
+                <a href="/" class="mainpage_button">메인으로</a>
+                <a onclick="history.back()" class="prevpage_button">이전페이지</a>
+            </div> <!--/error_button-->
+        </div> <!--/error_inner-->
+    </div> <!--/error-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
